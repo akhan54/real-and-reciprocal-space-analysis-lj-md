@@ -1,0 +1,13 @@
+# Core scientific computing
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.3.0
+
+# Progress bars (optional but recommended)
+tqdm>=4.60.0
+
+# For the original GUI version (optional)
+# Uncomment if you want to run the PyQt5 GUI:
+# PyQt5>=5.15.0
